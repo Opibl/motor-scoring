@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1567652630 source:c:\users\pedro\desktop\proyecto test\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1567652630 c:\users\pedro\desktop\proyecto test\list.h
+
+1578594676 source:c:\users\pedro\desktop\proyecto test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Map.h"
+	"list.h"
+	<ctype.h>
+	<string.h>
+
+1538512728 c:\users\pedro\desktop\proyecto test\map.h
+
+1541948956 source:c:\users\pedro\desktop\proyecto test\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1567652630 source:c:\users\pedro\desktop\proyecto_estructura-\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1567652630 c:\users\pedro\desktop\proyecto_estructura-\list.h
+
+1579566540 source:c:\users\pedro\desktop\proyecto_estructura-\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Map.h"
+	"list.h"
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1538512728 c:\users\pedro\desktop\proyecto_estructura-\map.h
+
+1541948956 source:c:\users\pedro\desktop\proyecto_estructura-\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+

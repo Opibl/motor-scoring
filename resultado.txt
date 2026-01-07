@@ -1,0 +1,21 @@
+RESULTADO TEST VOCACIONAL
+========================
+
+Puntajes:
+Ingeniería: 4
+Salud: 6
+Artes: 6
+Ciencias Sociales: 3
+
+Área recomendada: salud
+
+Carreras sugeridas:
+- Medicina
+- Enfermeria
+- Obstetricia y Puericultura
+- Bioquimica
+- Tecnologia Medica
+- Odontologia
+- Kinesiologia
+- Fonoaudiologia
+- Terapia Ocupacional
